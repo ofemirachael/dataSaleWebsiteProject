@@ -1,0 +1,16 @@
+* {
+  font-family: "Montserrat", sans-serif !important;
+}
+.bg-img {
+  background-image: url("../img/homebackground.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 500px;
+}
+.active {
+  border-bottom: 4px solid #fff;
+  font-weight: 600;
+}
+.home-img {
+  margin-top: -60px;
+}
